@@ -71,9 +71,7 @@ body {
     border: 2px;
     padding: 10px; 
     background: #666; 
-    margin-right: 100px;
-	margin-left: 600px;
-    margin-bottom: 0px;
+	margin:auto;
    }
    
 	table {
